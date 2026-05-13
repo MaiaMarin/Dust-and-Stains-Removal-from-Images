@@ -3,3 +3,16 @@ DIV2K_valid_HR/
 clean_patches/
 corrupted_patches/
 masks/
+
+Bibliography/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+Bibliography/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+DIV2K_train_HR/
+DIV2K_valid_HR/
+generated/
+clean_patches/
+data/
